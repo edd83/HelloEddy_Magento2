@@ -4,4 +4,5 @@ Clone the repository<br />
 Move it to app/code/ <br />
 Lunch the commands in the terminal : <br />
     - bin/magento module:enable Eddy_Helloworld <br />
-    - php bin/magento setup:upgrade 
+    - php bin/magento setup:upgrade <br />
+Access to your url and add /helloworld in suffix    
